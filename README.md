@@ -188,7 +188,7 @@ If you build upon this work, please cite it as follows:
   title = {Optimizer Comparison for CIFAR-10},
   year = {2025},
   howpublished = {GitHub},
-  note = {\url{https://github.com/example/optimizer-project}}
+  note = {\url{https://github.com/ESSADIKINE/Optimisation-Project}}
 }
 ```
 
