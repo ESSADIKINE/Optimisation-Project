@@ -70,7 +70,7 @@ https://github.com/ESSADIKINE/Optimisation-Project/blob/master/total_training_ti
 ### Maximum Validation Accuracy
 ![Maximum Accuracy](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/max_accuracy.png)
 
-### Epoch of Convergence
+### Stability
 ![Epoch of Convergence](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image5.png)
 
 ### Peak GPU Memory Usage
