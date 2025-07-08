@@ -59,14 +59,22 @@ https://github.com/ESSADIKINE/Optimisation-Project/blob/master/peak_memory.png
 https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image5.png
 https://github.com/ESSADIKINE/Optimisation-Project/blob/master/total_training_time.png
 
-```text
-![Accuracy over Epochs](accuracy_vs_epoch.png)
-![Total Time per Optimizer](time_per_optimizer.png)
-![Overall Training Time](total_training_time.png)
-![Maximum Accuracy](max_accuracy.png)
-![Epoch of Convergence](convergence_epoch.png)
-![Peak Memory Usage](peak_memory.png)
-```
+## 📊 Visual Results
+
+### Accuracy Over Epochs
+![Accuracy over Epochs](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/accuracy_vs_epoch.png)
+
+### Total Training Time per Optimizer
+![Total Training Time](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/total_training_time.png)
+
+### Maximum Validation Accuracy
+![Maximum Accuracy](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/max_accuracy.png)
+
+### Epoch of Convergence
+![Epoch of Convergence](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image5.png)
+
+### Peak GPU Memory Usage
+![Peak Memory Usage](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/peak_memory.png)
 
 These visuals illustrate how quickly each optimizer improves validation accuracy, how much time each run consumed, and how memory usage varied.
 
