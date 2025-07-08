@@ -53,12 +53,11 @@ The raw results are available in `results.csv`. Below we present a consolidated 
 ### 4.1 Graphs
 Please add your own images using the filenames listed below. The README will display them once uploaded.
 
-- `accuracy_vs_epoch.png` (GRAPH)
-- `time_per_optimizer.png` (GRAPH)
-- `total_training_time.png` (GRAPH)
-- `max_accuracy.png` (GRAPH)
-- `convergence_epoch.png` (GRAPH)
-- `peak_memory.png` (GRAPH)
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/accuracy_vs_epoch.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/max_accuracy.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/peak_memory.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image5.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/total_training_time.png
 
 ```text
 ![Accuracy over Epochs](accuracy_vs_epoch.png)
