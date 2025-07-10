@@ -53,28 +53,28 @@ The raw results are available in `results.csv`. Below we present a consolidated 
 ### 4.1 Graphs
 Please add your own images using the filenames listed below. The README will display them once uploaded.
 
-https://github.com/ESSADIKINE/Optimisation-Project/blob/master/accuracy_vs_epoch.png
-https://github.com/ESSADIKINE/Optimisation-Project/blob/master/max_accuracy.png
-https://github.com/ESSADIKINE/Optimisation-Project/blob/master/peak_memory.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image1.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image2.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image3.png
 https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image5.png
-https://github.com/ESSADIKINE/Optimisation-Project/blob/master/total_training_time.png
+https://github.com/ESSADIKINE/Optimisation-Project/blob/master/Image4.png
 
 ## 📊 Visual Results
 
 ### Accuracy Over Epochs
-![Accuracy over Epochs](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/accuracy_vs_epoch.png)
+![Accuracy over Epochs](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image1.png)
 
 ### Total Training Time per Optimizer
-![Total Training Time](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/total_training_time.png)
+![Total Training Time](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image2.png)
 
 ### Maximum Validation Accuracy
-![Maximum Accuracy](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/max_accuracy.png)
+![Maximum Accuracy](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image3.png)
 
 ### Stability
 ![Epoch of Convergence](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image5.png)
 
 ### Peak GPU Memory Usage
-![Peak Memory Usage](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/peak_memory.png)
+![Peak Memory Usage](https://raw.githubusercontent.com/ESSADIKINE/Optimisation-Project/master/Image4.png)
 
 These visuals illustrate how quickly each optimizer improves validation accuracy, how much time each run consumed, and how memory usage varied.
 
